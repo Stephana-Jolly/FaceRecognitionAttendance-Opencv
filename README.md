@@ -1,5 +1,5 @@
 # 🎯 Face Recognition Attendance System
----
+
 
 An intelligent, automated attendance tracking system that uses AI-powered face recognition to mark attendance instantly and accurately.
 Perfect for schools, colleges, offices, and any organization that needs efficient attendance management!
@@ -13,6 +13,16 @@ Imagine walking into your classroom or office, and your attendance gets marked a
 ✨ No more signing attendance sheets
 ✨ No more buddy punching or proxy attendance
 ✨ Instant, accurate, and contactless
+
+---
+
+### 🛠️ It was Built With
+
+- Python -> Main programming language.
+- OpenCV -> Face detection and recognition.
+- NumPy -> Mathematical calculations.
+- Pandas -> Data management.
+- PIL/Pillow -> Image processing.
 
 ---
 
