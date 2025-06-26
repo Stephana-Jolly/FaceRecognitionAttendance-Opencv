@@ -1,0 +1,1 @@
+# Training photos stored here
